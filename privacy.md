@@ -15,7 +15,7 @@ title: Privacy Policy — Do The Wrong Thing
 
 The app is developed and distributed by:
 
-- **Name:** Mihaita Nistor, acting as a private individual (sole developer)
+- **Name:** Mihăiță-Bogdan Nistor, acting as a private individual (sole developer)
 - **Contact:** mihaita.nistor@gmail.com
 
 For the purposes of the EU General Data Protection Regulation (GDPR), this person is the "data controller".
@@ -49,7 +49,9 @@ If you buy the "Unlimited Replay" in-app purchase, Google Play handles the trans
 
 ### 5.2 Firebase Analytics (a Google service)
 
-The Android version mirrors the same anonymous gameplay events listed in Section 4 to Firebase Analytics. This helps the developer understand aggregated player behavior (e.g. which story routes players reach, where players drop off) to improve the game.
+**This is off by default.** Firebase Analytics is only active if you have explicitly enabled it — either by tapping **"Sure"** on the one-time prompt shown on the title screen, or by turning on **Settings → Privacy → Share anonymous analytics**. You can turn it off again at any time in the same place. If you never enable it, nothing is ever transmitted to Firebase.
+
+When enabled, the Android version mirrors the same anonymous gameplay events listed in Section 4 to Firebase Analytics. This helps the developer understand aggregated player behavior (e.g. which story routes players reach, where players drop off) to improve the game.
 
 **What is sent per event:**
 - The event name (e.g. `game_started`, `route_chosen`)
@@ -88,7 +90,7 @@ Google Play — independent of this app — collects installation and basic diag
 | Game saves & preferences (local) | Let you play and keep your progress | Contract — Art. 6(1)(b) |
 | Error logs (local) | Diagnose crashes | Legitimate interests — Art. 6(1)(f): app stability |
 | Purchase state | Deliver the feature you paid for | Contract — Art. 6(1)(b) |
-| Firebase Analytics events (Android) | Understand aggregate player behavior to improve the game | Legitimate interests — Art. 6(1)(f). You can opt out (see Section 9). |
+| Firebase Analytics events (Android) | Understand aggregate player behavior to improve the game | **Consent — Art. 6(1)(a).** Off by default; activated only by your explicit opt-in. Withdrawable anytime in Settings → Privacy. |
 
 ## 8. Data retention
 
@@ -110,8 +112,8 @@ You have the right to:
 ### How to exercise these rights
 
 - **Your local game data:** open the app's **Settings** screen → **Export Save Data** to receive a copy. To delete, clear app storage via Android Settings → Apps, or uninstall.
-- **Firebase Analytics data:** email **mihaita.nistor@gmail.com** stating you'd like your Firebase Analytics data deleted, and include the approximate date range you played. Because Firebase data is tied only to a pseudonymous install identifier (not to you personally), blanket deletion of all data associated with your current install can be requested via the Firebase User Deletion API; this will be done within 30 days.
-- **To stop future analytics collection:** uninstall the Android app, or disable "Usage & diagnostics" in Android **Settings → Google → Usage & diagnostics** at the OS level.
+- **Withdraw consent / stop future analytics collection:** open the in-game **Settings → Privacy** and toggle **Share anonymous analytics** to Off. This takes effect immediately; no further events will be sent.
+- **Firebase Analytics data already collected:** email **mihaita.nistor@gmail.com** stating you'd like your Firebase Analytics data deleted, and include the approximate date range you played. Because Firebase data is tied only to a pseudonymous install identifier (not to you personally), blanket deletion of all data associated with your current install can be requested via the Firebase User Deletion API; this will be done within 30 days.
 
 ## 10. Children
 
