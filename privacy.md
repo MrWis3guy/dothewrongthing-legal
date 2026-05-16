@@ -5,7 +5,7 @@ title: Privacy Policy — Do The Wrong Thing
 # Privacy Policy — Do The Wrong Thing
 
 **Effective date:** April 19, 2026
-**Last updated:** April 19, 2026
+**Last updated:** May 16, 2026
 
 ## 1. Summary
 
@@ -15,8 +15,8 @@ title: Privacy Policy — Do The Wrong Thing
 
 The app is developed and distributed by:
 
-- **Name:** Mihăiță-Bogdan Nistor, acting as a private individual (sole developer)
-- **Contact:** mihaita.nistor@gmail.com
+- **Name:** Mihăiță-Bogdan Nistor, trading as **Probably Fine Games** (sole developer)
+- **Contact:** probablyfinegames@gmail.com
 
 For the purposes of the EU General Data Protection Regulation (GDPR), this person is the "data controller".
 
@@ -113,11 +113,11 @@ You have the right to:
 
 - **Your local game data:** open the app's **Settings** screen → **Export Save Data** to receive a copy. To delete, clear app storage via Android Settings → Apps, or uninstall.
 - **Withdraw consent / stop future analytics collection:** open the in-game **Settings → Privacy** and toggle **Share anonymous analytics** to Off. This takes effect immediately; no further events will be sent.
-- **Firebase Analytics data already collected:** email **mihaita.nistor@gmail.com** stating you'd like your Firebase Analytics data deleted, and include the approximate date range you played. Because Firebase data is tied only to a pseudonymous install identifier (not to you personally), blanket deletion of all data associated with your current install can be requested via the Firebase User Deletion API; this will be done within 30 days.
+- **Firebase Analytics data already collected:** email **probablyfinegames@gmail.com** stating you'd like your Firebase Analytics data deleted, and include the approximate date range you played. Because Firebase data is tied only to a pseudonymous install identifier (not to you personally), blanket deletion of all data associated with your current install can be requested via the Firebase User Deletion API; this will be done within 30 days.
 
 ## 10. Children
 
-The app is not directed at children under 13 (or under 16 in the EU). It does not knowingly collect data from children. If you believe a child has provided data through the app, email **mihaita.nistor@gmail.com** and the data will be deleted.
+The app is not directed at children under 13 (or under 16 in the EU). It does not knowingly collect data from children. If you believe a child has provided data through the app, email **probablyfinegames@gmail.com** and the data will be deleted.
 
 ## 11. International transfers
 
@@ -133,4 +133,4 @@ Material changes will be announced on this page and, where practical, in-app on 
 
 ## 14. Contact
 
-Questions? Email **mihaita.nistor@gmail.com**.
+Questions? Email **probablyfinegames@gmail.com**.
