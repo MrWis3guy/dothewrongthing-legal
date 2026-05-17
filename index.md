@@ -7,3 +7,4 @@ title: Do The Wrong Thing — Legal
 Legal documents for the mobile game *Do The Wrong Thing*.
 
 - [Privacy Policy](./privacy)
+- [Data Deletion Request](./data-deletion)
